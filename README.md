@@ -2,7 +2,9 @@
 
 
 
-### Hey there! 👋
+### Hey  👋 Visitor! 
+
+![Visitor Count](https://profile-counter.glitch.me/allstackdev1/count.svg)
 
 ## My name is Chinedu
 
@@ -27,6 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Email](allstackdev@gmail.com) [Twitter](https://twitter.com/allstackdev), [Portfolio Website](https://allstackdev.netlify.app)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Jovial
-
-![Visitor Count](https://profile-counter.glitch.me/allstackdev1/count.svg)
 
