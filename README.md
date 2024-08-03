@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Jovial
 
+![Visitor Count](https://profile-counter.glitch.me/allstackdev1/count.svg)
 
