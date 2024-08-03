@@ -14,7 +14,7 @@ But my journey doesn't stop there. I'm also deeply committed to nurturing talent
 
 What sets me apart? Communication. It's not just about lines of code; it's about understanding the essence of a project, seamlessly integrating with teams, and ultimately delivering top-notch products that stand the test of time.
 
-### I consider myself as a learner, a life-long learner.
+### I consider myself a life-long learner.
 
 
 Here are some ideas to get you started:
